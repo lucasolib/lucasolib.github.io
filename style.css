@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(204, 213, 174);
+}
+#nome {
+font-family: 'Helvetica',serif;
+}
+#desc {
+font-family: 'Times New Roman', sans-serif;
+}
+.nacio {
+    font-style: italic;
+}
