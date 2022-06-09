@@ -25,3 +25,14 @@ body {
     padding: 6px;   
 }
 
+.img {
+  float: left;
+  height: 250px;
+  width: 250px;
+  padding: 20px;
+  background-color: #fcfbd5;
+}
+
+.imgcont {
+  height: 300px;
+}
